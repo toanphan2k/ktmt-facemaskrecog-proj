@@ -1,0 +1,1 @@
+# Face-Mask_detection VERSION 2.7 for Ubuntu 14 - Python 2.7 Support
