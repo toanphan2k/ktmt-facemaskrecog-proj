@@ -3,6 +3,7 @@
 ## HOW TO GATHER IMAGES
 
 We gathering images by 2 lines of code:
+
 For wearing mask:
 python gather_images.py with_mask 10
 
